@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 -->
 Enjoy it my repos ;)
 
-<h2 align="left">My GitHub Profile Stats</h2>
-
-
-<h2 align="left">Techs</h2>
+<h2 align="left">Core Technologies</h2>
 
 ###
 
